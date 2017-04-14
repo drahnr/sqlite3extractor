@@ -1,0 +1,8 @@
+[package]
+name = "sqlite3extractor"
+version = "0.1.0"
+authors = ["Bernhard Schuster <bernhard@ahoi.io>"]
+
+[dependencies]
+rusqlite = "0.11.0"
+time = "*"
